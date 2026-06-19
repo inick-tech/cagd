@@ -42,4 +42,4 @@ The assignment is viewable online at:
 ## Author
 
 **Mohammad (Nick) Nikbakht**
-Pusat Pengajian Sains Matematik · Universiti Sains Malaysia
+Universiti Sains Malaysia
